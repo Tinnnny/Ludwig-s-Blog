@@ -17,4 +17,4 @@ module.exports = {
   author: 'Ludwig',
   // 项目开始时间
   startYear: '2017'
-}
+};

@@ -1,6 +1,7 @@
 ---
 title: nginx反向代理cdn  
 date: 2019-02-01
+isComment: true
 tags:
  - nginx    
 categories: 

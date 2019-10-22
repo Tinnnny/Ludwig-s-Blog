@@ -4,11 +4,11 @@ const sidebar = require('../sidebar/')
 
 module.exports = Object.assign({}, themeReco, {
   nav,
-  sidebar,
-  // logo: '/head.png',
+  // sidebar,
+  logo: '/swk.png',
   // 搜索设置
   search: true,
   searchMaxSuggestions: 10,
   // 自动形成侧边导航
   sidebar: 'auto',
-})
+});
